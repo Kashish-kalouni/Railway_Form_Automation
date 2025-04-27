@@ -51,20 +51,42 @@ It is designed to handle **multiple passengers** at once and ensures **neatly fo
 |-- registration_form.pdf
 |-- cancellation_form.pdf
 
-**how_to_run**:
-  - "**Install required libraries**: `pip install fpdf`"
-  - "**Run the Python file or Notebook**: `python Railway_registration_form.py` (or open and run the .ipynb)"
-  - "**When prompted, choose mode**: Registration or Cancellation"
-  - "**Fill in the requested details**"
-  - "**Automatically receive your PDF form and saved CSV record**"
+---
+🏃‍♂️ **How to Run**:
+Install required libraries (if not already):
 
-**future_enhancements**:
-  - "**Add GUI interface** (Tkinter or PyQT)"
-  - "**Enable online email sending of registration/cancellation PDFs**"
-  - "**Integrate with a database** (SQL or NoSQL) for scalable storage"
+bash
+Copy
+Edit
+pip install fpdf
+Run the Python file or Notebook.
 
-**contribution**: "Project is open for learning and improvements. Feel free to suggest or raise issues! 🚀"
+Choose to either Register or Cancel a ticket.
 
-**author**: "Made with ❤️ by Kashish Kalouni"
+Fill the asked details.
 
-**tagline**: "No more long queues at railway counters — Book and Cancel your tickets with one click!"
+Automatically get your:
+
+PDF form
+
+Saved CSV record
+
+Done! 🚀
+---
+💡 **Future Enhancements**:
+Add GUI interface (Tkinter / PyQT)
+
+Online email sending of registration or cancellation PDFs
+
+Database (SQL/NoSQL) integration for better scalability
+---
+🙌 **Contribution**:
+Project is open for learning and improvements.
+Feel free to suggest or raise issues! 🚀
+---
+✍️ **Author**:
+Made with ❤️ by Kashish Kalouni.
+
+---
+🔥 **Small Tagline**:
+"No more long queues at railway counters — Book and Cancel your tickets with one click!"
